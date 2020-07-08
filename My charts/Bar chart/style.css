@@ -1,0 +1,14 @@
+<style>
+   .bar {
+      fill: rgb(113, 0, 128);
+   }
+   
+   .highlight {
+      fill: red;
+   }
+   
+   .title {
+      fill: blue;
+      font-weight: bold;
+   }
+</style>
